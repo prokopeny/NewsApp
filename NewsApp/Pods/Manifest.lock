@@ -1,0 +1,26 @@
+PODS:
+  - Alamofire (5.2.1)
+  - ReadMoreTextView (3.0.1)
+  - SDWebImage (5.8.0):
+    - SDWebImage/Core (= 5.8.0)
+  - SDWebImage/Core (5.8.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 5.2)
+  - ReadMoreTextView
+  - SDWebImage (~> 5.0)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - ReadMoreTextView
+    - SDWebImage
+
+SPEC CHECKSUMS:
+  Alamofire: e911732990610fe89af59ac0077f923d72dc3dfd
+  ReadMoreTextView: 19147adf93abce6d7271e14031a00303fe28720d
+  SDWebImage: 84000f962cbfa70c07f19d2234cbfcf5d779b5dc
+
+PODFILE CHECKSUM: 869466c529e4b47a627083a6e62c4fe51b0461f1
+
+COCOAPODS: 1.9.1
